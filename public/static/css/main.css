@@ -5,8 +5,8 @@
   --secondary-color: #393a57;
   --ternary-color: #486ba6;
   --box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
-  --background-color: #e5e6ed;
-  --background-secondary-color: #fff;
+  --background-color: #f4f4f4;
+  --background-secondary-color: #ffffff;
   --border-color: #80717f;
   --border-secondary-color: #bcc0cb;
   --plus-color: #2ecc71;
@@ -36,9 +36,8 @@ body {
 }
 
 .header img {
-  width: 4.5rem;
-  width: 4.5rem;
-  opacity: 0.5;
+  width: 150px;
+  height: 125px;
 }
 
 .balance-container {
